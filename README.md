@@ -6,7 +6,7 @@ roomservice files for device trees and vendor files for various devices can be f
 
 * Go to 
 
-`.repo\local_manifests` directory
+`.repo\` directory
 * Clone repository for your device using the branch tag
 
 `git clone https://github.com/solitude-os-odal/local_manifests.git -b <device_name>`
