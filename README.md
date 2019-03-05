@@ -9,7 +9,7 @@ roomservice files for device trees and vendor files for various devices can be f
 `.repo/` directory
 * Clone repository for your device using the branch tag
 
-`git clone https://github.com/solitude-os-odal/local_manifests.git -b lucye`
+`git clone https://github.com/drshaggy/local_manifests.git -b lineage-15.1`
 * Sync repos into your working directory from working directory root
 
 `repo sync`
