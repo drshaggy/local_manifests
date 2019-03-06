@@ -2,7 +2,7 @@
 <manifest>
   <project name="LineageOS/android_device_lge_us997" path="device/lge/us997" remote="github" />
   <project name="LineageOS/android_device_lge_h872" path="device/lge/h872" remote="github" />
-  <project name="LineageOS/android_device_lge_h870" path="device/lge/h870" remote="github" />
+  <project name="drshaggy/android_device_lge_h870" path="device/lge/h870" remote="github" revision="lineage-microg-15.1" />
   <project name="LineageOS/android_device_lge_g6-common" path="device/lge/g6-common" remote="github" />
   <project name="LineageOS/android_device_lge_msm8996-common" path="device/lge/msm8996-common" remote="github" />
   <project name="LineageOS/android_device_lge_common" path="device/lge/common" remote="github" />
