@@ -9,5 +9,12 @@
   <project name="LineageOS/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" />
   <project name="drshaggy/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="lineage-15.1-oreo_blobs" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
-  <project path="prebuilts/prebuiltapks" name="lineageos4microg/android_prebuilts_prebuiltapks" clone-depth="1" revision="master" />
+  
+  <!-- MicroG packages -->
+  <project path="packages/apps/GmsCore" name="microg/android_packages_apps_GmsCore" remote="github" revision="master" />
+  <project path="packages/apps/FakeStore" name="microg/android_packages_apps_FakeStore" remote="github" revision="master" />
+  <project path="packages/apps/GsfProxy" name="microg/android_packages_apps_GsfProxy" remote="github" revision="master" />
+  <project path="packages/apps/UnifiedNlp" name="microg/android_packages_apps_UnifiedNlp" remote="github" revision="master" />
+  <project path="packages/apps/IchnaeaNlpBackend" name="microg/android_packages_apps_IchnaeaNlpBackend" remote="github" revision="master" />
+  <project path="packages/apps/NominatimGeocoderBackend" name="microg/android_packages_apps_NominatimGeocoderBackend" remote="github" revision="master" />
 </manifest>
